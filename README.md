@@ -1,4 +1,4 @@
-![Hanako banner -neitwys]([https://github.com/user-attachments/assets/65e38dc3-6858-48bc-92bf-d48e83be787c](https://raw.githubusercontent.com/neitwys/neitwys/refs/heads/main/neitwys%20banner%20github.png))
+https://raw.githubusercontent.com/neitwys/neitwys/refs/heads/main/neitwys%20banner%20github.png
 
 - 👨‍💻 First-year Computer Science student in Chile, passionate about cybersecurity and Python development.
 - 🛠️ Learning Python, Bash, PowerShell, SQL, C, C++ for cybersecurity applications.

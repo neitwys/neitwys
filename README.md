@@ -1,4 +1,4 @@
-![hanakobanner](https://github.com/user-attachments/assets/2b50a68c-570c-44d4-9539-8ae21c7d3416)
+![Hanako banner -neitwys](https://github.com/user-attachments/assets/65e38dc3-6858-48bc-92bf-d48e83be787c)
 
 - 👨‍💻 First-year Computer Science student in Chile, passionate about cybersecurity and Python development.
 - 🛠️ Learning Python, Bash, PowerShell, SQL, C, C++ for cybersecurity applications.

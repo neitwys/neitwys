@@ -1,4 +1,4 @@
-https://raw.githubusercontent.com/neitwys/neitwys/refs/heads/main/neitwys%20banner%20github.png
+![neitwys banner](https://github.com/neitwys/neitwys/blob/main/neitwys%20banner%20github.png "neitwys banner")
 
 - 👨‍💻 First-year Computer Science student in Chile, passionate about cybersecurity and Python development.
 - 🛠️ Learning Python, Bash, PowerShell, SQL, C, C++ for cybersecurity applications.
